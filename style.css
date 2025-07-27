@@ -60,7 +60,7 @@ html{
     display: flex;
     flex-direction: column;
     padding:3px 200px; 
-    height: 800px;
+    height: 600px;
     justify-content: center ;
     align-items: center;
 }
